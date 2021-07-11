@@ -7,10 +7,6 @@ import requests
 import hashlib
 import json
 
-from PyQt5.QtCore import Qt
-from PyQt5.QtWidgets import *
-from PyQt5.QtGui import QPalette
-
 passwd = ""
 
 has_numbers = False
